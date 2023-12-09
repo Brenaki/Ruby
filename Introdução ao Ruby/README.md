@@ -1,18 +1,18 @@
 # Introduction Ruby
 
 ## History
-        A Linguagem foi desenvolvida em 1993 por **Yukihiro "Matz" Matsumoto**.
+A Linguagem foi desenvolvida em 1993 por **Yukihiro "Matz" Matsumoto**.
 
-        A proposta de **Ruby** é para que seja produtivo e divertido desenvolver. Priorizando o entendimento de um software com o pensamento humano do que um computacional. E possuindo uma sintaxe bastante natural, facilitando a leitura e com cógido narrado de forma descritiva, permitindo o entendimento de trechos de código logo no início dos estudos de **Ruby**.
+A proposta de **Ruby** é para que seja produtivo e divertido desenvolver. Priorizando o entendimento de um software com o pensamento humano do que um computacional. E possuindo uma sintaxe bastante natural, facilitando a leitura e com cógido narrado de forma descritiva, permitindo o entendimento de trechos de código logo no início dos estudos de **Ruby**.
     
-        A linguagem **Ruby** possui tipagem dinâmica e forte, ela é interpretada multiparadigma, orientada a objetos (com herança), com gerenciamento de memória automático e Open Source.
+A linguagem **Ruby** possui tipagem dinâmica e forte, ela é interpretada multiparadigma, orientada a objetos (com herança), com gerenciamento de memória automático e Open Source.
     
-        Com **Ruby** pode se desenvolver aplicações para Aplicações Web, Programas de desktop, Automação de testes, Piplines, DevOps e Back-end
+Com **Ruby** pode se desenvolver aplicações para Aplicações Web, Programas de desktop, Automação de testes, Piplines, DevOps e Back-end
     
 ### Site Oficial da Linguagem
-    [Ruby] (https://www.ruby-lang.org/en/)
-    [Ruby on Rails] (https://rubyonrails.org)
-    [Ruby Installer] (https://rubyinstaller.org)
+[Ruby](https://www.ruby-lang.org/en/)<br>
+[Ruby on Rails](https://rubyonrails.org)<br>
+[Ruby Installer](https://rubyinstaller.org)
 
 ## How to Install?
 
