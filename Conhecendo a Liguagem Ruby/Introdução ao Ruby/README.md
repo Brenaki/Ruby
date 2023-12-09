@@ -15,7 +15,12 @@ Com **Ruby** pode se desenvolver aplicações para Aplicações Web, Programas d
 [Ruby Installer](https://rubyinstaller.org)
 
 ## How to Install?
+Deverá ser acessado o [Ruby Installer](https://rubyinstaller.org), em seguida clicar em download e baixar a versão __"With Devkit"__, eu instalei a primeira,  [Ruby+Devkit 3.2.2-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe). Após isso executar o .exe, aí segue o padrão em todos, depois de instalar ele vai abrir o cmd aí é só dar enter. E pronto o **Ruby** vai estar instalado no computador.
 
 ## Hello World
+No arquivo __"FirstProgram.rb"__ está o primeiro código **Ruby** que eu escrevi.
+
+> puts == print, printf, System.out.println 
 
 ## Ruby IRB
+Ruby IRB significa __Interactive Ruby__, isso é uma ferramenta que vem na linguagem **Ruby**, igual em python, você tem a possibilidade de testar a linguagem em um terminal próprio, para realizar descobrir comandos simples. 
