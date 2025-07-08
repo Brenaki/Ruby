@@ -1,0 +1,19 @@
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250708-222811-ak2tkw sitelibdir\=./.gem.20250708-222811-ak2tkw clean
+
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250708-222811-ak2tkw sitelibdir\=./.gem.20250708-222811-ak2tkw
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250708-222811-ak2tkw sitelibdir\=./.gem.20250708-222811-ak2tkw install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250708-222811-ak2tkw/debug
+
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250708-222811-ak2tkw sitelibdir\=./.gem.20250708-222811-ak2tkw clean

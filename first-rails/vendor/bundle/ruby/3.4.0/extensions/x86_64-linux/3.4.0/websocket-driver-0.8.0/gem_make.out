@@ -1,0 +1,18 @@
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250708-222811-5wo1mj sitelibdir\=./.gem.20250708-222811-5wo1mj clean
+
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250708-222811-5wo1mj sitelibdir\=./.gem.20250708-222811-5wo1mj
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250708-222811-5wo1mj sitelibdir\=./.gem.20250708-222811-5wo1mj install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20250708-222811-5wo1mj
+
+current directory: /home/brenaki/Documentos/github/Ruby/first-rails/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250708-222811-5wo1mj sitelibdir\=./.gem.20250708-222811-5wo1mj clean
