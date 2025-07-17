@@ -1,9 +1,26 @@
 <%= form_with model: product do |form| %>
+  <!-- Input name  -->
   <div>
     <%= form.label :name %>
     <%= form.text_field :name %>
   </div>
+  <!-- Input description  -->
+  <div>
+    <%= form.label :description, style: "display: block" %>
+    <%= form.text_field :description %>
+  </div>
+  <!-- Input file  -->
+  <div>
+    <%= form.label :featured_image, style: "display: block" %>
+    <%= form.file_field :featured_image, accept: "image/*" %>
+  </div>
+  <div>
+    <%= form.label :inventory_count, style: "display: block" %>
+    <%= form.number_field :inventory_count %>
+  </div>
+  <!-- Button of submit  -->
   <div>
     <%= form.submit %>
+  
   </div>
 <% end %>
